@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Check if the user provided an input string
 if [ "$#" -ne 1 ]; then
